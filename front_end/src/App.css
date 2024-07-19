@@ -1,0 +1,10 @@
+body{
+    background-color: #304463;
+   
+    margin: 0;
+    padding:0;
+    min-height: 100vh;
+    overflow: hidden;
+    width: 100%;
+}
+
